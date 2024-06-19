@@ -1,1 +1,4 @@
-# cofee machine
+# Cofee Machine
+
+## Aim 
+
